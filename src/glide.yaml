@@ -1,0 +1,6 @@
+package: dummy_webapp
+import:
+- package: github.com/gorilla/mux
+  version: ^1.6.2
+- package: github.com/lib/pq
+- package: github.com/sirupsen/logrus
